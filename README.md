@@ -1,6 +1,6 @@
-exemplo-ghostdriver-gradle [![Build Status](https://travis-ci.org/stefanteixeira/exemplo-ghostdriver-gradle.svg?branch=master)](https://travis-ci.org/stefanteixeira/exemplo-ghostdriver-gradle)
+exemplo-ghostdriver-uai-test
 ==========================
 
-Projeto de exemplo utilizando GhostDriver, Page Objects, TestNG e Gradle. O projeto contém alguns testes baseados em uma página de exemplo chamada [Loja Exemplo de Livros](http://www.lojaexemplodelivros.com.br/).
+Projeto de exemplo utilizando GhostDriver, Page Objects, TestNG e Gradle, especialmente para o tutorial "Introdução Prática ao Jenkins", apresentado no [UAI Test](http://uaitest.webs.com/).
 
-Caso queira comparar a execução do GhostDriver com outros browsers, basta alterar o driver no arquivo `config.properties`, dentro de `src/test/resources`.
+O projeto contém alguns testes baseados em uma página de exemplo chamada [Loja Exemplo de Livros](http://www.lojaexemplodelivros.com.br/).
